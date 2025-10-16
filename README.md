@@ -10,7 +10,8 @@ It was developed as part of the *Acquired Intelligence and Adaptive Behaviour* m
 
 A detailed technical report discussing the experimental design, analysis, and findings is available here:
 
-[Download Full Report (PDF)](./AIAB_Report_RuairiBradley - 279123.pdf)
+[Download Full Report (PDF)](./AIAB_Report_RuairiBradley%20-%20279123.pdf)
+
 
 ---
 
