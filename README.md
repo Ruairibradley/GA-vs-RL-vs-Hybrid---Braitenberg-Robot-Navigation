@@ -35,6 +35,39 @@ Three models were implemented:
 
 ---
 
+## Visual Results
+
+The following figures illustrate the performance, behaviour, and results from the comparative study of **Genetic Algorithms (GA)**, **Reinforcement Learning (RL)**, and a **hybrid GA+RL** model in Braitenberg light-seeking vehicles.
+
+---
+
+<p align="center">
+  <img src="./images/AIAB%20braitenberg%20image.png" width="600"/>
+</p>
+<p align="center"><em>Figure 1 – Example of the Braitenberg vehicle setup used for testing autonomous light-following behaviour.</em></p>
+
+---
+
+<p align="center">
+  <img src="./images/aiab%20performance%20over%20time%20example.png" width="600"/>
+</p>
+<p align="center"><em>Figure 2 – Comparative performance of Genetic Algorithm, Reinforcement Learning, and hybrid models over multiple training epochs.</em></p>
+
+---
+
+<p align="center">
+  <img src="./images/aiab%20robot%20tests%20example.png" width="600"/>
+</p>
+<p align="center"><em>Figure 3 – Visualisation of robot test trajectories under each learning paradigm, showing path efficiency and light-seeking accuracy.</em></p>
+
+---
+
+<p align="center">
+  <img src="./images/aiab%20success%20rates%20image.png" width="600"/>
+</p>
+<p align="center"><em>Figure 4 – Success rates for each approach averaged over several test environments. The hybrid GA+RL approach consistently achieved the highest success rate and stability.</em></p>
+
+
 ## Implementation Details
 
 Language: Python  
