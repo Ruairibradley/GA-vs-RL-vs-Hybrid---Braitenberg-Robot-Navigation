@@ -42,8 +42,9 @@ Core Components:
 ## How to Run
 Clone this repository:
 
-git clone https://github.com/Ruairibradley/AIAB-Genetic-vs-Reinforcement-Learning.git
-cd AIAB-Genetic-vs-Reinforcement-Learning
+git clone https://github.com/Ruairibradley/AIAB_Code_RuairiBradley-279123.git
+cd AIAB_Code_RuairiBradley-279123
+
 
 
 Open the project file:
