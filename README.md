@@ -40,5 +40,34 @@ Core Components:
 ---
 
 ## How to Run
+Clone this repository:
+
+git clone https://github.com/Ruairibradley/AIAB-Genetic-vs-Reinforcement-Learning.git
+cd AIAB-Genetic-vs-Reinforcement-Learning
+
+
+Open the project file:
+Launch your preferred Python IDE or text editor (e.g. VS Code, PyCharm, Jupyter Notebook, or IDLE).
+Open the main file:
+
+AIAB_Code_RuairiBradley-279123.py
+
+
+Follow the in-code commented instructions for specific experiment set up:
+The script includes detailed commented sections explaining how to:
+Configure and run each model (Genetic Algorithm, Q-Learning, and Hybrid GA+QL).
+Create and adjust simulation environments (e.g. noise level, light source position, iteration count).
+Run experiments for each approach individually or compare them side by side.
+Simply follow the comments in the file to uncomment or modify parameters as needed.
+
+Run the simulation:
+Execute the file directly from your IDE, or run it via the command line:
+
+python AIAB_Code_RuairiBradley-279123.py
+
+
+View results:
+Once executed, the program will generate performance graphs comparing model convergence, adaptability, and success rates.
+Output plots may display automatically or be saved within the working directory depending on your chosen configuration.
 
 
