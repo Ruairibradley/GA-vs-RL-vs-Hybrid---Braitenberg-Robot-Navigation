@@ -6,6 +6,14 @@ It was developed as part of the *Acquired Intelligence and Adaptive Behaviour* m
 
 ---
 
+## Full Report
+
+A detailed technical report discussing the experimental design, analysis, and findings is available here:
+
+[Download Full Report (PDF)](./AIAB_Report_RuairiBradley - 279123.pdf)
+
+---
+
 ## Overview
 
 Braitenberg vehicles are simple sensor-based robots that exhibit intelligent behaviour from basic rules, they have two light sensors connected to two motors powering the wheels.  
